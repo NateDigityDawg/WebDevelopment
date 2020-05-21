@@ -1,0 +1,31 @@
+body{
+    background-color: rgba(211, 207, 207, 0.199);
+    color: black;
+    margin: 5%;
+    padding: 2%;
+}
+h1{
+    color: blue;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+ ul {
+  list-style-type: none;
+ }
+
+ .logo{
+    text-align: center;
+ }
+ table{
+     border: 2px solid black;
+     border-collapse: collapse;
+     width: 50%;
+ }
+ th, td{
+     border: 1px solid black;
+ }
+ th{
+     background-color: lightgrey;
+ }
+ 
